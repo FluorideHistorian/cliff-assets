@@ -15,6 +15,7 @@ serveroperator
 phantomguy
 sign
 historian
+ux1
 argagaes
 farlander
 zephaniahnoah
